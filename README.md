@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Zutshi</h1>
-<h3 align="center">Lazy lazy worker so I build a lot of tools.</h3>
+<h3 align="center">PeopleSoft Developer and lazy lazy worker so I build a lot of tools.</h3>
 
 - 🌱 I’m currently learning **Clojure, Rust, Go**
 
 - 💬 Ask me about **PeopleSoft, Oracle, Integration**
 
-- 📫 How to reach me **ayush.zutshi@gmail.com**
+- 📫 Reach me at: **ayush.zutshi@gmail.com**
 
-- 📄 Know about my experiences [https://www.zutshigroup.com/doku.php/docs:ayush_zutshi](https://www.zutshigroup.com/doku.php/docs:ayush_zutshi)
+- 📄 [Resume](https://www.zutshigroup.com/doku.php/docs:ayush_zutshi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
